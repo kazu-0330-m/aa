@@ -1,0 +1,31 @@
+body {
+  font-family: "Avenir Next";
+  font-color:#000000;
+  background-color:#ffffff;
+  text-align: center;
+}
+
+.title{
+  height:150px;
+}
+
+.bottan{
+ height:50px;
+}
+
+h1{
+  fontsize:100px;
+}
+
+li{
+  fontsize:40px;
+  text-align: center;
+}
+
+a{
+ margin-top:5px;
+ padding:10px;
+ font-size:60px;
+ border: 6px solid #000000;
+ background-color:#ffffff;
+}
